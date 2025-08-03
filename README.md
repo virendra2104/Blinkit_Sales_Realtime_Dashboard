@@ -4,7 +4,8 @@ This repository hosts a dynamic and interactive Power BI dashboard designed to p
 Project Overview
 In the fast-paced quick-commerce industry, immediate access to sales data is crucial. This dashboard addresses that need by offering a comprehensive overview of Blinkit's sales operations. It focuses on visualizing critical KPIs and trends, allowing for proactive adjustments to strategies concerning inventory, marketing, and operational efficiency.
 
-Features
+Features:
+
 1.Real-time Sales Monitoring: Track sales performance as it happens, with up-to-the-minute data refreshes.
 
 2. Key Performance Indicators (KPIs): Display essential metrics such as Total Sales, Average Sales per Item, Number of Items Sold, and Average Customer Rating.
